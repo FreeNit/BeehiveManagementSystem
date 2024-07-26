@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BeehiveManagementSystem
 {
-    class HoneyVault
+    static class HoneyVault
     {
         public const float NECTAR_CONVERSION_RATIO = .19f;
         public const float LOW_LEVEL_WARNING = 10f;
